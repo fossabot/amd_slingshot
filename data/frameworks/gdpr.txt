@@ -1,0 +1,43 @@
+General Data Protection Regulation (GDPR)
+Regulation (EU) 2016/679
+Issued by: European Union
+Effective: May 25, 2018
+
+Overview
+The General Data Protection Regulation establishes rules for the protection of natural persons with regard to the processing of personal data and the free movement of such data.
+
+Article 5 – Principles of Data Processing
+Personal data must be:
+1. Processed lawfully, fairly, and transparently.
+2. Collected for specified, explicit, and legitimate purposes.
+3. Adequate, relevant, and limited to what is necessary (data minimization).
+4. Accurate and kept up to date.
+5. Stored only for as long as necessary.
+6. Processed securely using appropriate technical and organizational measures.
+
+Article 6 – Lawfulness of Processing
+Processing of personal data is lawful only if at least one of the following applies:
+• Consent of the data subject
+• Performance of a contract
+• Legal obligation
+• Protection of vital interests
+• Public interest or official authority
+• Legitimate interests pursued by the controller
+
+Article 25 – Data Protection by Design and by Default
+Organizations must implement technical and organizational measures designed to implement data protection principles effectively. Systems processing personal data should ensure only the minimum necessary data is processed.
+
+Article 32 – Security of Processing
+Organizations must implement appropriate security measures including:
+• Encryption or pseudonymization of personal data
+• Ensuring confidentiality, integrity, and availability
+• Ability to restore availability of data after incidents
+• Regular testing and evaluation of security controls
+
+AI Relevance
+AI systems processing personal data must ensure:
+• Lawful data collection
+• Transparency of automated decision making
+• Data minimization
+• Secure storage and processing
+• Human oversight where necessary

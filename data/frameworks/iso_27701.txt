@@ -1,0 +1,51 @@
+ISO/IEC 27701:2019
+Privacy Information Management System (PIMS)
+
+Issuing Organization
+International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC)
+
+Overview
+ISO/IEC 27701 extends ISO/IEC 27001 and ISO/IEC 27002 to provide a framework for managing personally identifiable information (PII).
+
+The standard defines requirements for organizations acting as:
+• PII Controllers
+• PII Processors
+
+Core Objectives
+• Protect personal information
+• Establish privacy governance
+• Ensure transparency and accountability
+• Implement privacy risk management
+
+Key Controls
+
+1. Privacy Governance
+Organizations must establish privacy policies, roles, and responsibilities.
+
+2. Data Subject Rights
+Systems must support rights including:
+• Access
+• Correction
+• Erasure
+• Data portability
+• Restriction of processing
+
+3. Privacy Risk Assessment
+Organizations must conduct privacy impact assessments to identify risks associated with processing personal data.
+
+4. Data Minimization
+Only necessary personal data should be collected and processed.
+
+5. Secure Processing
+PII must be protected using controls such as:
+• Encryption
+• Access control
+• Secure storage
+• Monitoring and logging
+
+AI Relevance
+AI systems must ensure:
+• Responsible use of personal data
+• Proper anonymization or pseudonymization
+• Transparency regarding automated processing
+• Privacy risk assessments before deployment

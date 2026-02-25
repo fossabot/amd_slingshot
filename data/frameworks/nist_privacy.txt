@@ -1,0 +1,53 @@
+NIST Privacy Framework
+Version 1.0
+Published: January 2020
+Issued by: National Institute of Standards and Technology (NIST)
+
+Overview
+The NIST Privacy Framework provides a voluntary tool to help organizations manage privacy risks related to personal data processing.
+
+The framework aligns privacy practices with enterprise risk management.
+
+Core Functions
+
+1. Identify-P
+Understand the organization's data processing environment.
+
+Activities include:
+• Data inventory
+• Mapping data flows
+• Identifying privacy risks
+
+2. Govern-P
+Establish governance structures and policies for privacy management.
+
+Includes:
+• Privacy policies
+• Roles and responsibilities
+• Oversight mechanisms
+
+3. Control-P
+Implement technical and procedural safeguards to manage privacy risks.
+
+Examples:
+• Encryption
+• Access controls
+• Data retention policies
+
+4. Communicate-P
+Ensure transparency about data processing activities.
+
+Includes:
+• Privacy notices
+• User consent mechanisms
+• Clear communication of data usage
+
+5. Protect-P
+Implement safeguards to prevent unauthorized access or disclosure of personal data.
+
+AI Relevance
+AI systems should ensure:
+• Training data does not violate privacy laws
+• Data is anonymized or pseudonymized when possible
+• Automated decision systems remain transparent and auditable
+• Organizations maintain accountability for AI-driven processing
